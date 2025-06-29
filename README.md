@@ -1,6 +1,7 @@
 # Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI Tutorial 
 
 ## Deployment Link
+https://ai-career-coach-pearl.vercel.app/
 
 
 ### Make sure to create a `.env` file with following variables -
